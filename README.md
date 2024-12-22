@@ -1,7 +1,7 @@
-<h1><center>Analysis and prediction of deaths in Switzerland</center></h1>
-<h2><center>Project work, time series analysis FHNW Brugg</center></h2>
-<h3><center>Claudio Schmidli</center></h3>
-<h4><center>30.06.2023</center></h4>
+<h1 align="center">Analysis and prediction of deaths in Switzerland</h1>
+<h2 align="center">Project work, time series analysis FHNW Brugg</h2>
+<h3 align="center">Claudio Schmidli</h3>
+<h4 align="center">30.06.2023</h4>
 
 In this timeseries project, I aim to analyze the weekly deaths in Switzerland and forecast future trends. Understanding the patterns and trends in mortality rates can provide valuable insights for various purposes, such as public health planning, resource allocation, and policy decision-making. By leveraging the power of data analysis and predictive modeling, we can gain a better understanding of the underlying factors driving mortality and make informed projections.
 
